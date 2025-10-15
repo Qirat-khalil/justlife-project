@@ -118,7 +118,7 @@ export default function HouseCleaningPage() {
     <>
 
 
-      <div className="container mx-auto px-18 py-4 ">
+      <div className="container w-[185vh] mx-auto px-18 py-4 ">
         {/*  Link */}
         <div>
           <Link
