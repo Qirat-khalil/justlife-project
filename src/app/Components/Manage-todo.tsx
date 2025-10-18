@@ -19,4 +19,4 @@ const ManageTodo = () => {
     )
 }
 
-export default ManageTodo
+export default ManageTodo;
